@@ -1,0 +1,4 @@
+['remote "upstream"']
+url = s3://invoice-project/dvc-getting-started
+[core]
+remote = upstream
